@@ -42,7 +42,7 @@ print(arr.dtype)
 
 #inserting a .csv file
 import pandas as pd
-df = pd.read_csv("../Downloads/Cars.csv")
+df = pd.read_csv("../Downloads/lab_work_4_CARS.csv")
 print(df)
 
 
